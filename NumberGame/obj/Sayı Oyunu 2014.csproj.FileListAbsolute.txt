@@ -1,0 +1,43 @@
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014\Sayı Oyunu 2014\bin\Debug\Sayı Oyunu 2014.exe
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014\Sayı Oyunu 2014\bin\Debug\Sayı Oyunu 2014.pdb
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014\Sayı Oyunu 2014\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.Form1.resources
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.Properties.Resources.resources
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.csproj.GenerateResource.Cache
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.exe
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.pdb
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.exe
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.pdb
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\bin\Debug\Sayı Oyunu 2014.exe
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\bin\Debug\Sayı Oyunu 2014.pdb
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.Form1.resources
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.Properties.Resources.resources
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.csproj.GenerateResource.Cache
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_OyunAc.resources
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Baglan.resources
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Splash.resources
+C:\Documents and Settings\mecakir\My Documents\My Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.exe
+C:\Documents and Settings\mecakir\My Documents\My Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.pdb
+D:\McakirProjeler\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.exe
+D:\McakirProjeler\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.pdb
+D:\McakirProjeler\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\bin\Debug\Sayı Oyunu 2014.exe
+D:\McakirProjeler\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\bin\Debug\Sayı Oyunu 2014.pdb
+D:\McakirProjeler\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\ResolveAssemblyReference.cache
+D:\McakirProjeler\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Baglan.resources
+D:\McakirProjeler\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.Form1.resources
+D:\McakirProjeler\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_OyunAc.resources
+D:\McakirProjeler\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Splash.resources
+D:\McakirProjeler\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.Properties.Resources.resources
+D:\McakirProjeler\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.csproj.GenerateResource.Cache
+C:\Users\toshıba\Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.exe
+C:\Users\toshıba\Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.pdb
+C:\Users\toshıba\Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\bin\Debug\Sayı Oyunu 2014.exe
+C:\Users\toshıba\Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\bin\Debug\Sayı Oyunu 2014.pdb
+C:\Users\toshıba\Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\toshıba\Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Baglan.resources
+C:\Users\toshıba\Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.Form1.resources
+C:\Users\toshıba\Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_OyunAc.resources
+C:\Users\toshıba\Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Splash.resources
+C:\Users\toshıba\Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.Properties.Resources.resources
+C:\Users\toshıba\Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.csproj.GenerateResource.Cache

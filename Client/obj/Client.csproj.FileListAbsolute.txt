@@ -1,0 +1,8 @@
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Client\obj\Debug\Client.Form1.resources
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Client\bin\Debug\Client.exe
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Client\bin\Debug\Client.pdb
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Client\obj\Debug\Client.exe
+C:\Documents and Settings\mecakir\My Documents\Visual Studio 2005\Projects\Sayı Oyunu 2014 [Multiplayer]\Client\obj\Debug\Client.pdb

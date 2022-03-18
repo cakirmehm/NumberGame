@@ -1,0 +1,25 @@
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\bin\Debug\Sayı Oyunu 2014.exe
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\bin\Debug\Sayı Oyunu 2014.pdb
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.csprojAssemblyReference.cache
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Baglan.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.Form1.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_OyunAc.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Splash.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.Properties.Resources.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.csproj.GenerateResource.cache
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.exe
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\Game 100 [Multiplayer]\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.pdb
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.csprojAssemblyReference.cache
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Connect.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Main.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Initiate.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\obj\Debug\Sayı_Oyunu_2014.F_Splash.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.csproj.GenerateResource.cache
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\obj\Debug\Sayı Oyunu 2014.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\bin\Debug\NumberGame.exe.config
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\bin\Debug\NumberGame.exe
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\bin\Debug\NumberGame.pdb
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\obj\Debug\NumberGame.Properties.Resources.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\obj\Debug\NumberGame.exe
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\NumberGame\Sayı Oyunu 2014\obj\Debug\NumberGame.pdb
